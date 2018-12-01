@@ -3,6 +3,11 @@ This bot tells you the review of an specified game using the gamespot api
 
 # Setup
 
+
+### Requirements 
+
+Node.js Installed in your pc
+
 ### 1. Create bot... 
 
 This is the logic behind a telegram bot in order for it to work you should create a bot and add it to a chat group if you want
@@ -23,7 +28,10 @@ Now you can talk to him! but remember he cant hear you...
 
 3. ### Connect the bot
 
-* Awesome... now you just have to clone this repository and inside the repo's folfer you open your terminal and type:
+* Awesome... now you just have to clone this repository and inside the repo's folfer you open your terminal and execute these 2 commands:
+`npm install`
+
+Wait for the modules to finish downloading and then execute:
 
 `TOKEN=<YOUR BOT TOKEN HERE> node index.js` 
 
