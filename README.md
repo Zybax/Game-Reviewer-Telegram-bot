@@ -29,6 +29,7 @@ Now you can talk to him! but remember he cant hear you...
 3. ### Connect the bot
 
 * Awesome... now you just have to clone this repository and inside the repo's folfer you open your terminal and execute these 2 commands:
+
 `npm install`
 
 Wait for the modules to finish downloading and then execute:
